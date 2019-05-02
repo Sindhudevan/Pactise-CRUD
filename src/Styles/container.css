@@ -1,0 +1,21 @@
+#comContainer{
+    height:100vh;
+    background-color: #1d686b;
+    color:white;
+    font-weight: 900;
+    display: grid;
+    align-items: center;
+    justify-items: center !important;
+    grid-template-columns: repeat(3,1fr);
+}
+.btnSection{
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+.radioBtn{
+    display: flex;
+    align-items: center;
+    justify-content:space-evenly; 
+}
+

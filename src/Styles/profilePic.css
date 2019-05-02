@@ -1,0 +1,11 @@
+#profilePic{
+    height: 175px;
+    width: 175px;
+    border-radius: 50%;
+    border: 4px solid white;
+}
+.profile-Align{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}

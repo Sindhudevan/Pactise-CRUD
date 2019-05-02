@@ -1,0 +1,24 @@
+.uploadBtn{
+    padding: 5px;
+    border: 2px solid white;
+    font-size: 15px;
+    font-weight: 900;
+    cursor: pointer;
+    margin-left: 40px;
+}
+
+.createBtn{
+    padding: 10px;
+    background-color:gold;
+    border: 2px solid black;
+    font-size: 15px;
+    font-weight: 900;
+    cursor: pointer;
+    margin:10px; 
+}
+.submitBtn-Area{
+    width: 100%;
+    height: auto;
+    background-color: tomato;
+}
+

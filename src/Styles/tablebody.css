@@ -1,0 +1,37 @@
+table{
+    width:100%;
+    border-collapse: collapse;
+    color:white;
+    background-color:  #1d686b;
+}
+th,tr,td{
+    padding: 10px;
+    border:2px solid white; 
+    
+}
+.tdSpaceid{
+    width:50px;
+    word-break: break-word;
+}
+.tdSpaceName{
+    width:180px;
+    word-break: break-word;
+}
+.tdSpaceMedium{
+    width:90px;
+    word-break: break-word;
+}
+.tdSpaceSocial{
+    width:200px;
+    word-break: break-word;
+}
+.actionBtn{
+    border: none;
+    display: none;
+    font-size: 12px;
+    background-color: gold;
+}
+.showMeOnHover:hover  .actionBtn{
+    display:block !important;
+}
+
